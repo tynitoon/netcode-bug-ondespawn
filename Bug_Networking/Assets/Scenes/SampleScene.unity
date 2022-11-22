@@ -744,7 +744,7 @@ GameObject:
   - component: {fileID: 898746082}
   - component: {fileID: 898746081}
   m_Layer: 5
-  m_Name: Button To Host
+  m_Name: Button To Join
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -878,7 +878,7 @@ GameObject:
   - component: {fileID: 1200623542}
   - component: {fileID: 1200623541}
   m_Layer: 5
-  m_Name: Button To Join
+  m_Name: Button To Host
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
